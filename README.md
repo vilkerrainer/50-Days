@@ -60,56 +60,6 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 48 | Estrutura de pacotes e setup.py | ⬜ |
 | 49 | Medir desempenho com `timeit` | ⬜ |
 | 50 | NumPy e arrays | ⬜ |
-| 51 | Criptografia simétrica com `cryptography` | ⬜ |
-| 52 | Dockerfile para app Python | ⬜ |
-| 53 | Documentação com Sphinx | ⬜ |
-| 54 | WebSocket com `websockets` | ⬜ |
-| 55 | Pillow para manipular imagens | ⬜ |
-| 56 | Serializar objetos com `pickle` | ⬜ |
-| 57 | Uso de `locks` com threads | ⬜ |
-| 58 | Funções de ordem superior | ⬜ |
-| 59 | Caching com `lru_cache` | ⬜ |
-| 60 | Monitoramento com Prometheus | ⬜ |
-| 61 | Parse de logs | ⬜ |
-| 62 | Pilha e fila customizadas | ⬜ |
-| 63 | Recomendador por similaridade | ⬜ |
-| 64 | Busca binária | ⬜ |
-| 65 | Algoritmos BFS/DFS | ⬜ |
-| 66 | Simulação de MapReduce | ⬜ |
-| 67 | CI com GitHub Actions | ⬜ |
-| 68 | Tipagem com `typing` | ⬜ |
-| 69 | Criar CLI com `argparse` | ⬜ |
-| 70 | `dateutil` e fusos horários | ⬜ |
-| 71 | Reconhecimento de voz | ⬜ |
-| 72 | Sistema de eventos | ⬜ |
-| 73 | Regressão com scikit-learn | ⬜ |
-| 74 | Automação com Selenium | ⬜ |
-| 75 | Integração com Redis | ⬜ |
-| 76 | Streaming com generators | ⬜ |
-| 77 | OAuth2 | ⬜ |
-| 78 | Comunicação com sockets TCP | ⬜ |
-| 79 | Execução via cron | ⬜ |
-| 80 | Factory Method | ⬜ |
-| 81 | Manipular XML | ⬜ |
-| 82 | Normalização de dados | ⬜ |
-| 83 | RabbitMQ | ⬜ |
-| 84 | Testes avançados com `pytest` | ⬜ |
-| 85 | Deploy | ⬜ |
-| 86 | `ctypes` e funções C | ⬜ |
-| 87 | Asyncio + threads | ⬜ |
-| 88 | Manipular PDFs | ⬜ |
-| 89 | NLTK e análise de sentimentos | ⬜ |
-| 90 | Web scraping dinâmico | ⬜ |
-| 91 | Bot Telegram básico | ⬜ |
-| 92 | Monitorar uso de sistema | ⬜ |
-| 93 | Pipeline ETL | ⬜ |
-| 94 | Dashboards com Plotly | ⬜ |
-| 95 | `with` customizado | ⬜ |
-| 96 | Webhooks | ⬜ |
-| 97 | MongoDB CRUD | ⬜ |
-| 98 | Programação reativa com RxPY | ⬜ |
-| 99 | NLP com Transformers | ⬜ |
-| 100 | Projeto final: API RESTful completa | ⬜ |
 
 ---
 
