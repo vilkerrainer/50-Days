@@ -11,7 +11,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | Dia | Desafio | Status |
 |-----|---------|--------|
 | 01 | Funções e Listas (números ao quadrado) | ✅ |
-| 02 | Contagem de caracteres em string | ⬜ |
+| 02 | Contagem de caracteres em string | ✅ |
 | 03 | Números divisíveis por 3 ou 5, mas não ambos | ⬜ |
 | 04 | Média com parâmetros variáveis | ⬜ |
 | 05 | Encontrar pessoa mais velha em dicionário | ⬜ |
