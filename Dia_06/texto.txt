@@ -1,0 +1,150 @@
+Python 10 Days Code — Desafio Diário para Avançar (Base para quem já tem alguma experiência)
+Dia 1
+Funções e Listas — Escreva uma função que receba uma lista de números e retorne uma nova lista com os números ao quadrado, mas apenas os pares.
+
+Dia 2
+Manipulação de Strings — Crie uma função que receba uma string e retorne um dicionário com a contagem de cada caractere, ignorando espaços e maiúsculas/minúsculas.
+
+Dia 3
+List Comprehension + Condições — Gere uma lista com todos os números entre 1 e 200 que sejam divisíveis por 3 ou 5, mas não por ambos.
+
+Dia 4
+Funções com parâmetros padrão e args — Faça uma função que receba qualquer quantidade de números e retorne a média deles. Se não receber nada, retorne 0.
+
+Dia 5
+Dicionários e Iteração — Dado um dicionário com nomes e idades, retorne o nome da pessoa mais velha.
+
+Dia 6
+Manipulação de arquivos (txt) — Crie um script que leia um arquivo texto, conte quantas palavras tem e gere um arquivo resumo com essa informação.
+
+Dia 7
+Funções Lambda + sorted — Ordene uma lista de tuplas (nome, idade) pelo segundo elemento (idade) usando função lambda.
+
+Dia 8
+Exceções (try/except) — Faça um programa que receba um número do usuário e trate o erro caso não seja um número válido, pedindo para tentar novamente.
+
+Dia 9
+Sets e operações entre conjuntos — Dado duas listas de números, retorne a lista dos números que aparecem em ambas (interseção) sem repetição.
+
+Dia 10
+Manipulação de listas multidimensionais — Crie uma função que receba uma matriz (lista de listas) e retorne a transposta dela.
+
+Dia 11
+Uso básico de módulos (math, datetime) — Escreva uma função que calcule o número de dias entre duas datas dadas pelo usuário.
+
+Dia 12
+Recursão simples — Escreva uma função recursiva que calcule o fatorial de um número.
+
+Dia 13
+Listas e filtragem com filter() — Use filter() para retornar apenas os números primos de uma lista.
+
+Dia 14
+Criar um dicionário invertido — Dado um dicionário com chave-valor, crie outro onde os valores são as chaves e vice-versa.
+
+Dia 15
+Classes básicas (POO) — Crie uma classe ContaBancaria com métodos para depositar, sacar e consultar saldo.
+
+Dia 16
+Hashing e criptografia simples — Use o módulo hashlib para gerar um hash SHA-256 de uma senha fornecida pelo usuário.
+
+Dia 17
+Manipulação avançada de strings — Faça uma função que receba um texto e retorne a palavra mais frequente nele.
+
+Dia 18
+JSON — Crie um script que leia um arquivo JSON com dados de usuários e filtre só os maiores de 18 anos.
+
+Dia 19
+Manipulação de data e hora — Calcule a diferença entre duas datas e informe em anos, meses e dias.
+
+Dia 20
+Decoradores — Implemente um decorador que registre o tempo que uma função leva para executar.
+
+Dia 21
+Geradores (generators) — Crie um gerador que gere os números da sequência de Fibonacci até um limite.
+
+Dia 22
+Funções Anônimas e Map — Use map() para converter uma lista de strings para maiúsculas.
+
+Dia 23
+Programação Funcional: reduce() — Use reduce() para calcular o produto de uma lista de números.
+
+Dia 24
+Regex básico — Escreva uma função que valide se uma string é um email válido.
+
+Dia 25
+Listas ligadas (implementação simples) — Implemente uma lista ligada simples com métodos para inserir e remover elementos.
+
+Dia 26
+Manipulação de CSV — Leia um arquivo CSV e calcule a média de uma coluna numérica.
+
+Dia 27
+Múltiplas heranças e mixins — Crie classes para demonstrar múltipla herança e como resolver conflitos.
+
+Dia 28
+Conceito de Iteradores — Crie uma classe iteradora que retorna apenas números pares em uma sequência.
+
+Dia 29
+Manipulação de arquivos JSON — Crie um CRUD simples (criar, ler, atualizar, deletar) para um arquivo JSON.
+
+Dia 30
+Expressões geradoras — Crie uma expressão geradora para gerar números quadrados de 1 a 1000.
+
+Dia 31
+Threading básico — Faça um programa que rode duas tarefas em threads diferentes (ex: contador e timer).
+
+Dia 32
+Processos com multiprocessing — Calcule a soma de grandes listas usando múltiplos processos.
+
+Dia 33
+Funções Async/Await (Asyncio básico) — Crie uma função assíncrona que aguarde 2 segundos antes de imprimir uma mensagem.
+
+Dia 34
+Web scraping básico com requests e BeautifulSoup — Faça um script que busque o título de uma página web.
+
+Dia 35
+Uso de APIs externas (exemplo: API de clima) — Consuma uma API pública e exiba dados formatados.
+
+Dia 36
+Pandas: Manipulação básica de DataFrames — Leia um CSV e filtre linhas com base em uma condição.
+
+Dia 37
+Listas de prioridades (heapq) — Use o módulo heapq para criar uma fila de prioridades.
+
+Dia 38
+Testes unitários básicos (unittest) — Escreva testes para funções simples.
+
+Dia 39
+Manipulação de arquivos Excel com openpyxl — Leia e escreva dados em um arquivo Excel.
+
+Dia 40
+Desenvolvimento Web básico com Flask — Crie uma API REST simples que retorne uma lista de usuários.
+
+Dia 41
+ORM básico com SQLAlchemy — Defina uma tabela e faça operações CRUD.
+
+Dia 42
+Uso de ambientes virtuais e requirements.txt — Crie e use ambientes virtuais para um projeto.
+
+Dia 43
+Debugging com pdb — Utilize o debugger para encontrar um erro proposital em um código.
+
+Dia 44
+Loggings avançados — Configure logs com níveis diferentes (INFO, WARNING, ERROR).
+
+Dia 45
+Design Patterns: Singleton — Implemente o padrão Singleton em Python.
+
+Dia 46
+Expressões regulares avançadas — Capture grupos específicos em uma string complexa.
+
+Dia 47
+Metaclasses — Introdução simples a metaclasses, alterando comportamento de classes.
+
+Dia 48
+Criação de pacotes Python — Estruture um projeto com múltiplos módulos e crie um setup.py.
+
+Dia 49
+Análise de desempenho com timeit — Compare duas formas de resolver um problema e veja qual é mais rápida.
+
+Dia 50
+Manipulação de dados com NumPy — Crie arrays multidimensionais e faça operações matemáticas.

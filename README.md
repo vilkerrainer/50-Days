@@ -15,7 +15,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 03 | Números divisíveis por 3 ou 5, mas não ambos | ✅ |
 | 04 | Média com parâmetros variáveis | ✅ |
 | 05 | Encontrar pessoa mais velha em dicionário | ✅ |
-| 06 | Contar palavras em arquivo `.txt` | ⬜ |
+| 06 | Contar palavras em arquivo `.txt` | ✅ |
 | 07 | Ordenar lista de tuplas com lambda | ⬜ |
 | 08 | Validação de número com try/except | ⬜ |
 | 09 | Interseção de listas com set | ⬜ |
