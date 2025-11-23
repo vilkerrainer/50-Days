@@ -21,7 +21,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 09 | Interseção de listas com set | ✅ |
 | 10 | Transposição de matriz | ✅ |
 | 11 | Dias entre duas datas | ✅ |
-| 12 | Fatorial com recursão | ⬜ |
+| 12 | Fatorial com recursão | ✅ |
 | 13 | Filtrar números primos com `filter()` | ⬜ |
 | 14 | Dicionário invertido | ⬜ |
 | 15 | Classe `ContaBancaria` com métodos | ⬜ |
