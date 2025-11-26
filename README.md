@@ -23,7 +23,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 11 | Dias entre duas datas | ✅ |
 | 12 | Fatorial com recursão | ✅ |
 | 13 | Filtrar números primos com `filter()` | ✅ |
-| 14 | Dicionário invertido | ⬜ |
+| 14 | Dicionário invertido | ✅ |
 | 15 | Classe `ContaBancaria` com métodos | ⬜ |
 | 16 | Criptografia com `hashlib` | ⬜ |
 | 17 | Palavra mais frequente em texto | ⬜ |
