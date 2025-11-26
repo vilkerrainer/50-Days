@@ -24,7 +24,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 12 | Fatorial com recursão | ✅ |
 | 13 | Filtrar números primos com `filter()` | ✅ |
 | 14 | Dicionário invertido | ✅ |
-| 15 | Classe `ContaBancaria` com métodos | ⬜ |
+| 15 | Classe `ContaBancaria` com métodos | ✅ |
 | 16 | Criptografia com `hashlib` | ⬜ |
 | 17 | Palavra mais frequente em texto | ⬜ |
 | 18 | Filtrar maiores de idade em JSON | ⬜ |
