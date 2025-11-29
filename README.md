@@ -28,7 +28,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 16 | Criptografia com `hashlib` | ✅ |
 | 17 | Palavra mais frequente em texto | ✅ |
 | 18 | Filtrar maiores de idade em JSON | ✅ |
-| 19 | Diferença entre datas formatada | ⬜ |
+| 19 | Diferença entre datas formatada | ✅ |
 | 20 | Decorador de tempo de execução | ⬜ |
 | 21 | Gerador de Fibonacci | ⬜ |
 | 22 | Uso de `map()` em strings | ⬜ |
