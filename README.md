@@ -32,7 +32,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 20 | Decorador de tempo de execução | ✅ |
 | 21 | Gerador de Fibonacci | ✅ |
 | 22 | Uso de `map()` em strings | ✅ |
-| 23 | Produto com `reduce()` | ⬜ |
+| 23 | Produto com `reduce()` | ✅ |
 | 24 | Regex para e-mails válidos | ⬜ |
 | 25 | Implementação de lista ligada | ⬜ |
 | 26 | Ler CSV e calcular média | ⬜ |
