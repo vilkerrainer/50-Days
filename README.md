@@ -34,7 +34,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 22 | Uso de `map()` em strings | ✅ |
 | 23 | Produto com `reduce()` | ✅ |
 | 24 | Regex para e-mails válidos | ✅ |
-| 25 | Implementação de lista ligada | ⬜ |
+| 25 | Implementação de lista ligada | ✅ |
 | 26 | Ler CSV e calcular média | ⬜ |
 | 27 | Múltipla herança e mixins | ⬜ |
 | 28 | Criar iterador de números pares | ⬜ |
