@@ -35,8 +35,8 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 23 | Produto com `reduce()` | ✅ |
 | 24 | Regex para e-mails válidos | ✅ |
 | 25 | Implementação de lista ligada | ✅ |
-| 26 | Ler CSV e calcular média | ⬜ |
-| 27 | Múltipla herança e mixins | ⬜ |
+| 26 | Ler CSV e calcular média | ✅ |
+| 27 | Múltipla herança e mixins | ✅ |
 | 28 | Criar iterador de números pares | ⬜ |
 | 29 | CRUD em arquivo JSON | ⬜ |
 | 30 | Expressão geradora de quadrados | ⬜ |
