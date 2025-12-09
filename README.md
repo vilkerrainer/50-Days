@@ -38,7 +38,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 26 | Ler CSV e calcular média | ✅ |
 | 27 | Múltipla herança e mixins | ✅ |
 | 28 | Criar iterador de números pares | ✅ |
-| 29 | CRUD em arquivo JSON | ⬜ |
+| 29 | CRUD em arquivo JSON | ✅ |
 | 30 | Expressão geradora de quadrados | ⬜ |
 | 31 | Contador com threading | ⬜ |
 | 32 | Soma com multiprocessing | ⬜ |
