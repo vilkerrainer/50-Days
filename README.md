@@ -40,7 +40,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 28 | Criar iterador de números pares | ✅ |
 | 29 | CRUD em arquivo JSON | ✅ |
 | 30 | Expressão geradora de quadrados | ✅ |
-| 31 | Contador com threading | ⬜ |
+| 31 | Contador com threading | ✅ |
 | 32 | Soma com multiprocessing | ⬜ |
 | 33 | Função assíncrona simples | ⬜ |
 | 34 | Web scraping com BeautifulSoup | ⬜ |
