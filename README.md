@@ -43,8 +43,8 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 31 | Contador com threading | ✅ |
 | 32 | Soma com multiprocessing | ✅ |
 | 33 | Função assíncrona simples | ✅ |
-| 34 | Web scraping com BeautifulSoup | ⬜ |
-| 35 | API pública de clima | ⬜ |
+| 34 | Web scraping com BeautifulSoup | ✅ |
+| 35 | API pública de clima | ✅ |
 | 36 | Filtrar DataFrame com pandas | ⬜ |
 | 37 | Fila de prioridade com `heapq` | ⬜ |
 | 38 | Testes com `unittest` | ⬜ |
