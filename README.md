@@ -50,7 +50,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 38 | Testes com `unittest` | ✅ |
 | 39 | Ler e escrever arquivos Excel | ✅ |
 | 40 | API Flask simples | ✅ |
-| 41 | ORM com SQLAlchemy | ⬜ |
+| 41 | ORM com SQLAlchemy | ✅ |
 | 42 | Ambiente virtual + requirements.txt | ⬜ |
 | 43 | Debug com `pdb` | ⬜ |
 | 44 | Logs com diferentes níveis | ⬜ |
