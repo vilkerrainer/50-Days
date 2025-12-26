@@ -52,9 +52,9 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 40 | API Flask simples | ✅ |
 | 41 | ORM com SQLAlchemy | ✅ |
 | 42 | Ambiente virtual + requirements.txt | ✅ |
-| 43 | Debug com `pdb` | ⬜ |
-| 44 | Logs com diferentes níveis | ⬜ |
-| 45 | Singleton Pattern | ⬜ |
+| 43 | Debug com `pdb` | ✅ |
+| 44 | Logs com diferentes níveis | ✅ |
+| 45 | Singleton Pattern | ✅ |
 | 46 | Regex com grupos capturados | ⬜ |
 | 47 | Metaclasses básicas | ⬜ |
 | 48 | Estrutura de pacotes e setup.py | ⬜ |
