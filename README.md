@@ -58,7 +58,7 @@ Este repositório documenta esse desafio. Cada dia trará um novo problema, proj
 | 46 | Regex com grupos capturados | ✅ |
 | 47 | Metaclasses básicas | ✅ |
 | 48 | Estrutura de pacotes e setup.py | ✅ |
-| 49 | Medir desempenho com `timeit` | ⬜ |
+| 49 | Medir desempenho com `timeit` | ✅ |
 | 50 | NumPy e arrays | ⬜ |
 
 ---
